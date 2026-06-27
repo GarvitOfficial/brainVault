@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Garvit this side!
 ---
+Welcome to my public knowledge base.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Collections
+
+- [[EthicalHacking]]
+
