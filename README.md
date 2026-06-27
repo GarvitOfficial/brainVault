@@ -1,17 +1,28 @@
-# Quartz v5
+# 🧠 Garvit's BrainVault
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> *A public knowledge base of ideas worth keeping.*
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Most repositories are built to ship software.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This one is built to preserve understanding.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+**BrainVault** is where I document concepts, implementation details, debugging discoveries, architectural decisions, and mental models that have proven valuable enough to revisit. Every note is intentionally curated from my private knowledge base and continuously refined as my understanding evolves.
 
-## Sponsors
+I don't aim to write more.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I aim to write better.
+
+---
+
+## Philosophy
+
+- Think deeply.
+- Document clearly.
+- Iterate relentlessly.
+- Let knowledge compound.
+
+---
+
+> *"The best documentation isn't written after the work. It's part of the work."*
+
+---
