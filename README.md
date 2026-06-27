@@ -1,17 +1,34 @@
-# Quartz v5
+<div align="center">
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+🧠 Garvit’s BrainVault
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+A public knowledge base built one note at a time.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+</div>
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+⸻
 
-## Sponsors
+Most repositories showcase projects.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+This one documents the thinking behind them.
+
+BrainVault is my evolving collection of technical notes, experiments, implementation details, and lessons learned while building software. Every page exists because it solved a problem, clarified a concept, or captured an insight worth revisiting.
+
+I don’t publish everything I write.
+
+Only the notes that continue to provide value make it here.
+
+As my understanding evolves, these notes evolve with it.
+
+⸻
+
+Philosophy
+
+* Document what matters.
+* Prefer understanding over memorization.
+* Optimize for long-term thinking.
+* Treat knowledge as something to compound.
+
+⸻
+
+“Good code solves today’s problem. Good notes solve tomorrow’s.”
