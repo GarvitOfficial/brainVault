@@ -163,7 +163,7 @@ direct value that we give in code
 - true → boolean literal
 - null → null literal
 
-#  Statements vs Expressions
+#  [[Statements vs Expressions]]
 
 > [!info] Easy Definition
 > - **Statement** → A complete instruction that performs an action. (Ek poora instruction jo kuch kare. Jaise order dena.)
@@ -233,7 +233,7 @@ console.log("Hello");
 
 ---
 
-# 🧱 Primitive Data Types
+# 🧱[[ Primitive Data Types]]
 
 > [!tip] Primitive types are the **basic building blocks** of JavaScript.
 
@@ -263,7 +263,7 @@ let user = null;            // null
 > Once created, their value cannot be changed directly.
 
 ---
-# 📦 Objects (Reference Types)
+# 📦 [[Objects]] (Reference Types)
 
 Objects are used for storing **collections of data** and **more complex entities**. 
 
@@ -288,7 +288,7 @@ function greet() {
 > This is one of the reasons JavaScript is so flexible.
 
 ---
-# 📝 Strings (Text)
+# 📝 [[Strings]] (Text)
 
 Strings store textual data.
 
@@ -303,7 +303,7 @@ Both single (`' '`) and double (`" "`) quotes work the same.
 
 ---
 
-## ⭐ Template Literals (Recommended)
+## ⭐[[ Template Literals]] (Recommended)
 
 Template literals use **backticks** (`` ` ``).
 
@@ -370,7 +370,7 @@ console.log(`I am ${age} years old.`);
 > [!info]
 > **Control Flow** decides **which code runs, when it runs, and how many times it runs.**
 
-# 1. Conditional Execution (Decision Making)
+# 1. [[Conditional Execution ]](Decision Making)
 
 Use conditions to execute different blocks of code.
 ## Syntax
@@ -413,7 +413,7 @@ if (age >= 18) {
 
 > [!info]
 > Loops allow you to execute the same block of code **multiple times**.
-## For Loop
+## [[For Loop]]
 
 Best when you know the number of iterations.
 
@@ -423,7 +423,7 @@ for (let i = 0; i < 5; i++) {
 }
 ```
 
-## While Loop
+## [[While Loop]]
 
 Best when the number of iterations is unknown.
 
@@ -446,7 +446,7 @@ while (count < 5) {
 > They are cleaner and easier to read.
 
 ---
-# 3. Changing Loop Flow
+# 3. [[Changing Loop Flow]]
 
 | Keyword | Purpose |
 |---------|---------|
@@ -476,7 +476,7 @@ for (let i = 1; i <= 5; i++) {
 
 ---
 
-# 4. Switch Statement
+# 4. [[Switch Statement]]
 
 Useful when checking **multiple possible values**.
 
@@ -530,7 +530,7 @@ console.log(add(5, 3));
 
 # Ways to Create Functions
 
-## 1. Function Declaration
+## 1. [[Function Declaration]]
 
 ```javascript
 function add(x, y) {
@@ -538,7 +538,7 @@ function add(x, y) {
 }
 ```
 
-## 2. Function Expression
+## 2. [[Function Expression]]
 
 ```javascript
 let add = function (x, y) {
@@ -546,7 +546,7 @@ let add = function (x, y) {
 };
 ```
 
-## 3. Arrow Function (Recommended)
+## 3. [[Arrow Function]] (Recommended)
 
 ```javascript
 const add = (x, y) => x + y;
@@ -564,7 +564,7 @@ const add = (x, y) => x + y;
 
 ---
 
-# Anonymous Functions
+# [[Anonymous Functions]]
 
 Functions without a name.
 
@@ -578,7 +578,7 @@ sayHello();
 
 ---
 
-# IIFE (Immediately Invoked Function Expression)
+# [[IIFE]] (Immediately Invoked Function Expression)
 
 Runs immediately after being created.
 
