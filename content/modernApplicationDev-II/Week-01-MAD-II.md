@@ -78,7 +78,7 @@ Advanced Frontend Development
 
 - The "glue" was useful, but real power emerged ~**2005** with:
     - **Google Maps**, **Google Suggest**
-    - Enabled fluid UI: pan/zoom on maps, load only what's needed
+    - Enabled fluid UI: pan/zoom on maps, load only what's needed.
 - Named **[[Ajax]]** (Asynchronous JavaScript and XML) by _Garrett, 2005_
 - As a result **"web applications"** behaving like desktop apps 
 
