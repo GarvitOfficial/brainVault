@@ -1,7 +1,7 @@
 ---
 title: Garvit this side!
 ---
-Welcome to my public knowledge base.
+Welcome to my public knowledge base!
 
 ## Collections
 
