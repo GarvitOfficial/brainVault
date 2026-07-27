@@ -32,7 +32,7 @@ a_n &= a_0 + \sum_{i=1}^{n} f_i
 \end{aligned}
 $$
 
->[!question]
+> [!question]
 > $$\begin{aligned}
 a_n &= a_{n-1} + n^2,\qquad a_0=7 \\[6pt] \end{aligned}
 $$
@@ -65,7 +65,7 @@ a_n &= 7 + \sum_{i=1}^{n} i^2 \\[6pt]
 $$
 
 
->[!question]
+> [!question]
 > $$\begin{aligned}
 a_n &= a_{n-1} + \frac{1}{n(n+1)},\qquad a_0=1 \\[6pt]\end{aligned}
 $$
@@ -100,12 +100,34 @@ a_n &= 1+\sum_{i=1}^{n}\frac{1}{i(i+1)} \\[6pt]
 \end{aligned}
 $$
 
->[!Intermerdiate]
-$$\begin{aligned} &\left(1-\frac12\right) +\left(\frac12-\frac13\right) +\left(\frac13-\frac14\right) +\cdots +\left(\frac1n-\frac1{n+1}\right). \end{aligned}$$
-Now notice that everything cancels: $$
-\begin{aligned} 1 &-\cancel{\frac12} +\cancel{\frac12} -\cancel{\frac13} +\cancel{\frac13} -\cancel{\frac14} +\cdots +\cancel{\frac1n} -\frac1{n+1}. \end{aligned}$$
+> [!Intermediate]
+> $$
+> \begin{aligned}
+> &\left(1-\frac12\right)
+> +\left(\frac12-\frac13\right)
+> +\left(\frac13-\frac14\right)
+> +\cdots
+> +\left(\frac1n-\frac1{n+1}\right).
+> \end{aligned}
+> $$
 
->[!question]
+Now notice that everything cancels:
+
+$$
+\begin{aligned}
+1
+&-\cancel{\frac12}
++\cancel{\frac12}
+-\cancel{\frac13}
++\cancel{\frac13}
+-\cancel{\frac14}
++\cdots
++\cancel{\frac1n}
+-\frac1{n+1}.
+\end{aligned}
+$$
+
+> [!question]
 > $$
 > \begin{aligned}
 > a_n &= a_{n-1}+3^n,\qquad a_0=1
@@ -142,7 +164,7 @@ a_n &= 1+\sum_{i=1}^{n}3^i \\[6pt]
 \end{aligned}
 $$
 
->[!Question]
+> [!Question]
 > $$
 \begin{aligned}
 a_n &= a_{n-1}+\frac{n(n+1)}{2} \\[6pt] \end{aligned}
@@ -183,7 +205,7 @@ a_n &= a_0+\sum_{i=1}^{n}\frac{i(i+1)}{2} \\[6pt]
 $$
 
 
->[!Important]
+> [!Important]
 > Find Complexity for 
 >> i. Palindrome of a String
 >> $$
