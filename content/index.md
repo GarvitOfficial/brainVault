@@ -8,3 +8,4 @@ Welcome to my public knowledge base!
 - [[EthicalHacking]]
 - [[modernApplicationDev-II]]
 - [[ADA]]
+- [[ManagingIntellectualPropertyinUniversities]]

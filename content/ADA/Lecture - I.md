@@ -33,9 +33,7 @@ a_n &= a_0 + \sum_{i=1}^{n} f_i
 $$
 
 > [!question]
-> $$\begin{aligned}
-a_n &= a_{n-1} + n^2,\qquad a_0=7 \\[6pt] \end{aligned}
-$$
+> $$ \begin{aligned}  a_n &= a_{n-1} + n^2,\qquad a_0=7 \\[6pt] \end{aligned} $$ 
 
 
 $$
@@ -66,9 +64,7 @@ $$
 
 
 > [!question]
-> $$\begin{aligned}
-a_n &= a_{n-1} + \frac{1}{n(n+1)},\qquad a_0=1 \\[6pt]\end{aligned}
-$$
+> $$\begin{aligned} a_n &= a_{n-1} + \frac{1}{n(n+1)},\qquad a_0=1 \\[6pt]\end{aligned} $$
 
 $$
 \begin{aligned}
@@ -166,9 +162,9 @@ $$
 
 > [!Question]
 > $$
-\begin{aligned}
-a_n &= a_{n-1}+\frac{n(n+1)}{2} \\[6pt] \end{aligned}
-$$
+>\begin{aligned}
+>a_n &= a_{n-1}+\frac{n(n+1)}{2} \\[6pt] \end{aligned}
+>$$
 
 
 $$
@@ -209,5 +205,5 @@ $$
 > Find Complexity for 
 >> i. Palindrome of a String
 >> $$
-f_{n+1}=f_{n-1}+f_n
-$$
+>>f_{n+1}=f_{n-1}+f_n
+>>$$
